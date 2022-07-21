@@ -10,7 +10,7 @@ There are several versions of the MNIST dataset. We used the one that is built-i
 
 * Classes: 10 (one for each digit)
 * Samples total: 1797
-* Samples per class: $\approx$180
+* Samples per class: $\approx$ 180
 * Dimensionality: 64 (8 pixels by 8 pixels)
 * Features: integers 0-16 (grayscale value; 0 is white, 16 is black)
 
